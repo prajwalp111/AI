@@ -1,3 +1,6 @@
+# preview : https://colab.research.google.com/drive/1oDTfGizrk3HE3MPb-gaVictHG1Tukrx-#scrollTo=4dKrycxCIjbH
+
+
 
 from transformers import pipeline
 summarizer = pipeline("summarization")
